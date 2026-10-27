@@ -12,6 +12,9 @@
 - /projects/todo/        — Todo 项目完整实现（分步）
 - /exercises/            — 每日/每周练习题与参考解答
 - README.md              — 本文档
+
+## 已完成练习与作业
+- [第 5 章 抽象类与多态](exercises/第5章-抽象类与多态/) — 打印机/墨盒、媒体播放器两道课堂编程练习（含注释、类图、运行结果与易错点）
 - CONTRIBUTING.md        — 贡献指南
 - LICENSE                — 许可证（建议 MIT）
 
